@@ -24,7 +24,7 @@ A step by step series of examples that tell you how to get a development environ
 1. Clone the repository to your local machine
 
 ```
-git clone https://github.com/christinestraub/Text-To-Data-GeminiAI-App.git
+git clone https://super0605@github.com/super0605/GeminiAI-App-Text-To-Data.git
 ```
 
 2. Create a virtual environment and activate it
